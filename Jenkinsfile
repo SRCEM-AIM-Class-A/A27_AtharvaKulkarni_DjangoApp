@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'atharvakulkarni20/djangoapp'
+        IMAGE_NAME = 'atharva_kulkarni/djangoapp'
         CONTAINER_NAME = 'amazing_solomon'
     }
 
