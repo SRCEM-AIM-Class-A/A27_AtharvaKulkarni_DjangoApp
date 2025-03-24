@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = 'atharvakulkarni20/djangoapp'
-        CONTAINER_NAME = 'djangoapp'
+        CONTAINER_NAME = 'amazing_solomon'
     }
 
     stages {
