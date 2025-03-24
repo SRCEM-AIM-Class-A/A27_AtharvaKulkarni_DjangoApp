@@ -5,8 +5,6 @@ This is a simple multi-App Django project containerized with Docker and integrat
 ## Project Structure
 - **Django Project:** `StudentProject`
 - **Apps:** `app1`, `app2`
-- `app1` – Homepage with navigation links.  
-- `app2` – Sample page with project-related information.
 - **Views:** Static views with templates (no database/models)
 
 ## Setup & Usage
